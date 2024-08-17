@@ -101,7 +101,7 @@ To set up the project locally:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/a-star-algorithm.git
-   cd a-star-algorithm
+   cd a-star-algorithm](https://github.com/shri11081999/A-Algorithm.git
 
 ## 🖥️ Usage
 To run the A* algorithm and visualize the results:
