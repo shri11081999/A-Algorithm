@@ -5,7 +5,7 @@
 
 Welcome to the **A* Algorithm for Pathfinding** project! This repository contains an implementation of the A* algorithm as part of a Data Structures and Algorithms (DSA) course project. The A* algorithm is a well-known pathfinding and graph traversal algorithm used in various applications, including maps, games, and robotics. The project also includes a Pygame-based visualization that demonstrates the algorithm in action.
 
-![A* Algorithm](https://via.placeholder.com/800x300.png?text=A*+Algorithm+for+Pathfinding)
+![ss](https://github.com/user-attachments/assets/2642dd97-55e1-4a05-a437-e64f867dcf5a)
 
 ## 📝 Table of Contents
 - [Introduction](#introduction)
@@ -63,7 +63,7 @@ The algorithm evaluates the neighboring nodes of the current node, calculates th
 
 The A* algorithm operates by continuously selecting the node with the lowest `f` value and exploring its neighbors until the goal is reached.
 
-![Flowchart](https://via.placeholder.com/800x300.png?text=A*+Algorithm+Flowchart)
+![flowchart](https://github.com/user-attachments/assets/c7afe3fd-631d-4fbf-a459-a0d9b4f4078e)
 
 ## 🔍 Heuristics
 
@@ -82,9 +82,7 @@ This project includes a **Pygame-based visualization** that demonstrates the A* 
 - **Blue Square**: Goal Node
 - **Purple Squares**: Shortest Path
 
-![Pygame Visualization](path/to/your/gif.gif)
-
-*(Replace the placeholder with the actual path to your Pygame GIF visualization)*
+![A algorithm](https://github.com/user-attachments/assets/085486c8-4b25-41b3-8fe9-bad394122511)
 
 ## 👍 Pros and Cons of A* Algorithm
 
@@ -104,3 +102,14 @@ To set up the project locally:
    ```bash
    git clone https://github.com/your-username/a-star-algorithm.git
    cd a-star-algorithm
+
+## 🖥️ Usage
+To run the A* algorithm and visualize the results:
+
+1. Run the Python script for the A* algorithm.
+
+2. Execute the Pygame application to see the algorithm in action on the grid.
+
+## 📜 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
